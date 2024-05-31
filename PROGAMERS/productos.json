@@ -1,0 +1,105 @@
+[
+    {
+      "id": 1,
+      "nombre": "Halo Reach",
+      "precio": 600,
+      "imagen": "images/g3.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Free Fire",
+      "precio": 200,
+      "imagen": "images/l2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Clash Royale",
+      "precio": 200,
+      "imagen": "images/l3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Ciber Punk",
+        "precio": 900,
+        "imagen": "images/l4.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Fornite",
+        "precio": 1000,
+        "imagen": "images/g4.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Lorem",
+        "precio": 500,
+        "imagen": "images/l6.jpg"
+      },
+      {
+        "id": 7,
+        "nombre": "Crash Racing",
+        "precio": 250,
+        "imagen": "images/g5.jpg"
+      },
+      {
+        "id": 8,
+        "nombre": "Grand Theft Auto IV",
+        "precio": 1200,
+        "imagen": "images/l8.jpg"
+      },
+      {
+        "id": 9,
+        "nombre": "Modern Striker",
+        "precio": 700,
+        "imagen": "images/l9.jpg"
+      },
+      {
+        "id": 10,
+        "nombre": "Fuente de poder Asus 420W",
+        "precio": 3438,
+        "imagen": "ComponentesPc/fuente de poder.jpg"
+      },
+      {
+        "id": 11,
+        "nombre": "Gabinete MSI",
+        "precio": 1036,
+        "imagen": "ComponentesPc/Gabinete.jpg"
+      },
+      {
+        "id": 12,
+        "nombre": "Monitor MSI 24",
+        "precio": 5321,
+        "imagen": "ComponentesPc/Monitor.jpeg"
+      },
+      {
+        "id": 13,
+        "nombre": "RAM Fury 16GB",
+        "precio": 2678,
+        "imagen": "ComponentesPc/ram.jpg"
+      },
+      {
+        "id": 14,
+        "nombre": "Raton Gamer",
+        "precio": 800,
+        "imagen": "ComponentesPc/raton.jpeg"
+      },
+      {
+        "id": 15,
+        "nombre": "SSD Kingstone 2T",
+        "precio": 3500,
+        "imagen": "ComponentesPc/SSD.jpeg"
+      },
+      {
+        "id": 16,
+        "nombre": "Targeta Grafica NVIDIA 4090 RTX",
+        "precio": 6467,
+        "imagen": "ComponentesPc/targeta.jpg"
+      },
+      {
+        "id": 17,
+        "nombre": "Teclado Gamer",
+        "precio": 1200,
+        "imagen": "ComponentesPc/teclado.jpg"
+      }
+  ]
+  
